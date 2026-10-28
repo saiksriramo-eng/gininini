@@ -1,0 +1,71 @@
+# Android / Gradle
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+*.ap_
+local.properties
+.cxx/
+.externalNativeBuild/
+captures/
+.navigation/
+
+# Android Studio & IDEs
+*.iml
+.idea/
+.vscode/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets & Local Configurations
+.env
+.env.*
+!.env.example
+*.json
+!android/**/google-services.json
+!gradle/libs.versions.toml
+browser.json
+oauth.json
+headers_auth.json
+*.keystore
+*.jks
+
+# SQLite / Database
+*.sqlite3
+*.db
+backend/app/saves.db
+
+# OS Artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini

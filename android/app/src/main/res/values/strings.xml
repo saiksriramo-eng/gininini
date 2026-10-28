@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ginininini</string>
+    <string name="accessibility_service_label">Ginininini Selection Capture</string>
+    <string name="accessibility_service_description">Captures highlighted text across apps to save music to YouTube Music on your tap. Never stores or logs screen content.</string>
+    <string name="notification_listener_label">Ginininini Now Playing Listener</string>
+    <string name="tile_label">Ginininini</string>
+    <string name="channel_name">Ginininini Overlay Service</string>
+    <string name="channel_desc">Active floating music discovery bubble</string>
+    <string name="stop_service">Stop</string>
+</resources>
